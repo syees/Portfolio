@@ -57,7 +57,7 @@ For this study, I focused on **2000–2001 data** to:
 
 ---
 
-## Visualisation
+## Visualisations
 
 - Delay distribution by time of day  
   ![delay by time](https://github.com/syees/portfolio/blob/main/Programming%20for%20data%20science/Images/delay%20by%20time.png?raw=true)
