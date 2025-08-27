@@ -57,9 +57,8 @@ For this study, I focused on **2000–2001 data** to:
 
 ---
 
-## 🖼 Visualizations
-(Replace with your actual charts once uploaded to `images/` folder)
+## Visualizations
 
 - Delay distribution by time of day  
-  ![Delay by Tim]()
+  ![delay by time]()
 
