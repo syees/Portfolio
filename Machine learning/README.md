@@ -15,7 +15,7 @@ The goal is to demonstrate model development, evaluation, and comparison using R
 
 ---
 
-## 2️⃣ Regression – House Sales Prediction
+## Regression – House Sales Prediction
 - **Dataset:** King County House Sales (Kaggle)  
 - **Models Tested:** Linear Regression, Ridge, CART, Random Forest  
 - **Results:**
@@ -24,7 +24,7 @@ The goal is to demonstrate model development, evaluation, and comparison using R
 
 ---
 
-## 3️⃣ Classification – Stroke Prediction
+## Classification – Stroke Prediction
 - **Dataset:** Stroke Prediction (Kaggle)  
 - **Models Tested:** Logistic Regression, LDA, KNN, Random Forest  
 - **Results:**
@@ -35,7 +35,7 @@ The goal is to demonstrate model development, evaluation, and comparison using R
 
 ---
 
-## 📊 Key Takeaways
+## Key Takeaways
 - **Clustering** revealed two distinct customer groups with different purchasing power  
 - **Random Forest** consistently outperformed other models in regression & classification tasks  
 - Feature engineering and proper handling of outliers were critical for better results  
