@@ -26,21 +26,22 @@ Key business questions addressed:
 ## Dashboards (Screenshots)
 
 - Sales & Profit by Category  
-  ![Dashboard1](images/category_analysis.png)
+  ![Dashboard1](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard1.PNG?raw=true)
 
 - Top 30 Countries Sales & Profit  
-  ![Dashboard12](images/top_countries.png)
+  ![Dashboard12](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard2.PNG?raw=true)
 
 - Best-Selling Products  
-  ![Dashboard3](images/best_products.png)
-  ![Dashboard4](images/best_products.png)
+  ![Dashboard3](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard3.PNG?raw=true)
+  ![Dashboard4](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard4.PNG?raw=true)
 
 - Shipping Mode Distribution  
-  ![Dashboard5](images/shipping_mode.png)
-
+  ![Dashboard5](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard5.PNG?raw=true)
+  ![Dashboard6](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard6.PNG?raw=true)
+  
 - Discounts & Profitability  
-  ![Dashboard6](images/discount_profit.png)
-
+  ![Dashboard7](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard7.PNG?raw=true)
+  ![Dashboard8](https://github.com/syees/portfolio/blob/main/Tableau/Images/Dashboard8.PNG?raw=true)
 ---
 
 ## Recommendations
